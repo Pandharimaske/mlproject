@@ -1,0 +1,5 @@
+#!/Users/pandhari/Desktop/MLOPs/End-To_End_Projects/ML_Project/venv/bin/python3.10
+
+import pydoc
+if __name__ == '__main__':
+    pydoc.cli()

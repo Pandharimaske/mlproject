@@ -1,0 +1,11 @@
+prefix=/Users/pandhari/Desktop/MLOPs/End-To_End_Projects/ML_Project/venv
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+toolexeclibdir=${libdir}
+includedir=/Users/pandhari/Desktop/MLOPs/End-To_End_Projects/ML_Project/venv/include
+
+Name: libffi
+Description: Library supporting Foreign Function Interfaces
+Version: 3.4.4
+Libs: -L${toolexeclibdir} -lffi
+Cflags: -I${includedir}
