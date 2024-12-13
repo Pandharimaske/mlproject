@@ -6,5 +6,6 @@ matplotlib
 dill
 catboost
 xgboost
+flask
 # -e .
 
