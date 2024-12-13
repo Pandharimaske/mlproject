@@ -2,5 +2,6 @@ venv
 .env
 
 
-.artifact
-.logs
+artifact/
+logs/
+
